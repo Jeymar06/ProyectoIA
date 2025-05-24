@@ -3,24 +3,24 @@ Aqui podras encontrar el proyecto de IA llamado FlexGenAI
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# BANNER:
-
+## Banner
+![Descripción de la imagen]([URL_DE_TU_IMAGEN](https://raw.githubusercontent.com/Jeymar06/ProyectoIA/refs/heads/main/Banner.png))
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# AUTORES: 
+## AUTORES: 
 
 Jeider Torres Martinez - 2201431, Marcos Jose Orjuela Murillo - 2225506
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# OBJETIVO: 
+## OBJETIVO: 
 
 Desarrollar un sistema de recomendación de películas utilizando la técnica de filtrado colaborativo usuario-usuario, mediante el análisis de un dataset con información de interacciones, con el fin de generar recomendaciones personalizadas y mejorar la experiencia del usuario en plataformas de contenido digital.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# DATASET INFORMACION: 
+## DATASET INFORMACION: 
 
 Título: Nombre del contenido (películas o series).
 Género: Clasificación por tipo (Comedia, Drama, etc.) y categorías sugeridas por Netflix.
@@ -39,7 +39,7 @@ LINK DE DESCARGA DEL DATASET: https://www.kaggle.com/datasets/syedmubarak/netfli
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# MODELOS:
+## MODELOS:
 
 PARA ANALISIS: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor
 
@@ -48,7 +48,7 @@ MODELOS DE CLASIFICACION SUPERVISADO: Logistic Regression, Decision Tree Classif
 MODELOS DE CLASIFICACION NO SUPERVISADO: KMeans, DBSCAN, Agglomerative Clustering
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# LINKS
+## LINKS
 
 LINK VIDEO: 
 
