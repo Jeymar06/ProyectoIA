@@ -4,7 +4,7 @@ Aqui podras encontrar el proyecto de IA llamado FlexGenAI
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Banner
-![Descripción de la imagen]([URL_DE_TU_IMAGEN](https://raw.githubusercontent.com/Jeymar06/ProyectoIA/refs/heads/main/Banner.png))
+https://raw.githubusercontent.com/Jeymar06/ProyectoIA/refs/heads/main/Banner.png
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
