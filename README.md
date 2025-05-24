@@ -69,7 +69,7 @@ Para el desarrollo de este proyecto, se exploraron y aplicaron diversos modelos 
     * **Nota:** El notebook está alojado en Google Drive. Para ejecutarlo sin problemas, asegúrate de tener una cuenta de Google.
 * **Link del Repositorio:** [Ver este Repositorio en GitHub](https://github.com/Jeymar06/ProyectoIA)
 * **Link del Video:** (Pendiente / Pronto disponible)
-* * **Link de las Diapositivas:** [Ver Diapositivas en GitHub]([https://github.com/Jeymar06/ProyectoIA](https://github.com/Jeymar06/ProyectoIA/raw/refs/heads/main/Diapositivas%20Proyecto%20IA.pptx))
+* **Link de las Diapositivas:** [Ver Diapositivas en GitHub](https://github.com/Jeymar06/ProyectoIA/raw/refs/heads/main/Diapositivas%20Proyecto%20IA.pptx))
   
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
