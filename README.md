@@ -66,8 +66,8 @@ Para el desarrollo de este proyecto, se exploraron y aplicaron diversos modelos 
 ## Enlaces del Proyecto
 
 * **Link del Notebook (Google Colab):** [Acceder al Notebook en Google Drive](https://drive.google.com/file/d/1AwH846kHmkpUxN0urkqJzPHQdb3iaFfh/view?usp=sharing)
-    * **Nota:** El notebook está alojado en Google Drive. Para ejecutarlo sin problemas, asegúrate de tener una cuenta de Google y acceso a Colab.
-* **Link del Repositorio (Actual):** [Ver este Repositorio en GitHub](https://github.com/Jeymar06/ProyectoIA)
+    * **Nota:** El notebook está alojado en Google Drive. Para ejecutarlo sin problemas, asegúrate de tener una cuenta de Google.
+* **Link del Repositorio:** [Ver este Repositorio en GitHub](https://github.com/Jeymar06/ProyectoIA)
 * **Link del Video:** (Pendiente / Pronto disponible)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
